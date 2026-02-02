@@ -1,0 +1,7 @@
+name: GAC
+version: 0.1-DEV
+main: me.gac.GAC
+api-version: 1.20
+commands:
+  gacreload:
+    description: Reloads Configr
