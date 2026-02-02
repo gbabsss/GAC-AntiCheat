@@ -1,0 +1,11 @@
+prefix: "&8[&eGAC&8]"
+
+speed:
+  max-walk: 0.215
+
+reach:
+  max: 3.1
+
+messages:
+  kick: "&4Player &e%player% Kicked For Hacking"
+  alert-op: "&2Player &e%player% Maybe Hacking For Reason: %reason%""
